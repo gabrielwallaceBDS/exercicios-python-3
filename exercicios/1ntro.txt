@@ -1,0 +1,28 @@
+ex001 - imprimir na tela
+ex002 - utilizando o print
+ex003 - soma
+ex004 - typeof
+ex005 - sucessor e antecessor
+ex006 - raiz quadrada
+ex007 - media aritmetica
+ex008 - conversor de medida tirando zeros
+ex009 - tabuada com +=1
+ex010 - conversor de moeda
+ex011 - pintando parede
+ex012 - desconto,porcentagem
+ex013 = reajuste salarial
+ex014 - converter c° em f°
+ex015 - aluguel de carros
+ex016 - arredondar numero
+ex017 - catetos e hipotenusa
+ex018 - seno coseno e tangente
+ex019 - sorteio lista
+ex020 - embaralha lista
+ex021 - musica
+ex022 - analisador e texto
+ex023 - separando digitos de um numero
+ex024 -
+
+
+
+

@@ -1,0 +1,90 @@
+{
+  "files": {
+    "ex001/main.py": [
+      {
+        "id": "039825b4-4315-4857-8861-551ce1c6e9da",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "exercicios/aulas/modulos.py": [
+      {
+        "id": "487fdbc0-4aff-4f2f-bcb3-79825830d34f",
+        "line": 4,
+        "version": 32,
+        "index": 74
+      }
+    ],
+    "exercicios/ex001/main.py": [
+      {
+        "id": "b2dd4bbe-30b6-4e36-bdbc-46cc0b15ead6",
+        "line": 1,
+        "version": 61,
+        "index": 0
+      }
+    ],
+    "exercicios/ex002/ex002.py": [
+      {
+        "id": "b4b00019-e121-43b7-baad-943a7c8587fd",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "exercicios/ex003.py": [
+      {
+        "id": "e63d2c22-fd7c-4ef4-b5ce-6a4952996552",
+        "line": 1,
+        "version": 177,
+        "index": 0
+      }
+    ],
+    "exercicios/ex007.py": [
+      {
+        "id": "f520eca3-541a-4694-8bf9-43b1640bfec0",
+        "line": 2,
+        "version": 231,
+        "index": 53
+      },
+      {
+        "id": "e228eb87-c7e7-45bf-86cb-38356be11e15",
+        "line": 5,
+        "version": 231,
+        "index": 163
+      }
+    ],
+    "exercicios/ex008.py": [
+      {
+        "id": "c76616ae-93bc-4753-875c-0ed3c09761bd",
+        "line": 8,
+        "version": 482,
+        "index": 248
+      }
+    ],
+    "exercicios/ex011.py": [
+      {
+        "id": "d36c129e-73ac-49f9-bf53-352fa92c2670",
+        "line": 6,
+        "version": 442,
+        "index": 326
+      }
+    ],
+    "exercicios/ex014.py": [
+      {
+        "id": "fe639689-00f4-43f1-b147-2603b7a32a71",
+        "line": 4,
+        "version": 181,
+        "index": 125
+      }
+    ],
+    "exercicios/ex021.py": [
+      {
+        "id": "41a516f3-f12e-4ac2-b969-a681c8ece3ef",
+        "line": 6,
+        "version": 164,
+        "index": 219
+      }
+    ]
+  }
+}
