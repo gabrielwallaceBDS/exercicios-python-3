@@ -85,6 +85,30 @@
         "version": 164,
         "index": 219
       }
+    ],
+    "exercicios/ex026.py": [
+      {
+        "id": "c13c8a2d-ebdc-4c7f-9868-bd83a87c86c6",
+        "line": 7,
+        "version": 324,
+        "index": 339
+      }
+    ],
+    "exercicios/ex037.py": [
+      {
+        "id": "d96622ce-dc9a-4301-aa7e-56a1b808276e",
+        "line": 11,
+        "version": 701,
+        "index": 438
+      }
+    ],
+    "exercicios/ex042.py": [
+      {
+        "id": "c180990c-8bd0-41da-8f59-af3fa7791e0b",
+        "line": 9,
+        "version": 589,
+        "index": 384
+      }
     ]
   }
 }
