@@ -39,8 +39,10 @@ ex038 - comparando numeros
 ex039 - alistamento militar
 ex040 - media aprovado/recuperaçao/reprovado
 ex041 - classificando atletas
-
-
+ex042 - analisando triangulos
+ex043 - indice massa corporal
+ex044 - gerenciador de pagamentos
+ex045 - game pedra papel tesoura
 
 
 
