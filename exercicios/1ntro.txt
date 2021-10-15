@@ -21,7 +21,28 @@ ex020 - embaralha lista
 ex021 - musica
 ex022 - analisador e texto
 ex023 - separando digitos de um numero
-ex024 -
+ex024 - verificando primeira letras de um texto
+ex025 - procurando uma string dentro da outra
+ex026 - primeira e ultima ocorrencia de uma string
+ex027 - primeiro e ultimo nome de uma pessoa
+ex028 - jogo adivinha com random
+ex029 - radar
+ex030 - par ou impar
+ex031 - cuso de viagem
+ex032 - ano bissexto
+ex033 - maior e menor valor
+ex034 - aumento multiplo
+ex035 - analisando triangulo
+ex036 - aprovando emprestimo
+ex037 - conversor de bases numericas
+ex038 - comparando numeros
+ex039 - alistamento militar
+ex040 - media aprovado/recuperaçao/reprovado
+ex041 - classificando atletas
+ex042 - analisando triangulos
+ex043 - indice massa corporal
+ex044 - gerenciador de pagamentos
+ex045 - game pedra papel tesoura
 
 
 
