@@ -28,7 +28,7 @@ ex027 - primeiro e ultimo nome de uma pessoa
 ex028 - jogo adivinha com random
 ex029 - radar
 ex030 - par ou impar
-ex031 - cuso de viagem
+ex031 - custo de viagem
 ex032 - ano bissexto
 ex033 - maior e menor valor
 ex034 - aumento multiplo
@@ -43,6 +43,79 @@ ex042 - analisando triangulos
 ex043 - indice massa corporal
 ex044 - gerenciador de pagamentos
 ex045 - game pedra papel tesoura
+ex046 - contagem regresiva
+ex047 - contagem de pares
+ex048 - soma impares multiplos de 3
+ex049 - tabuada 2.0
+ex050 - soma de pares
+ex051 - progressao aritmetica
+ex052 - numeros primos
+ex053 - detector de palindromo
+ex054 - grupo de maioridade
+ex055 - maior e menor da sequencia
+ex056 - analisador completo
+ex057 - validaçao de dados
+ex058 - jogo do adivinha 2.0
+ex059 - criando menu de opçoes
+ex060 - calculo do fatorial
+ex061 - progessao aritmetica 1.0
+ex062 - super progressao aritmetica
+ex063 - sequencia de fibonacci v1.0
+ex064 - tratando varios valores
+ex065 - maior e menor valor
+ex066 - varios valores com flag
+ex067 - tabuada 3.0
+ex068 - jogo do par ou impar
+ex069 - analise de dados de grupo
+ex070 - estatisticas em produtos
+ex071 - caixa eletronico
+ex072 - numero por extensao
+ex073 - numeros com times de futebol
+ex074 - maior e menores valores em tupla
+ex075 - analise de dados de uma tupla
+ex076 - lista de preços com tupla
+ex077 - contando vogais em tuplas
+ex078 - maior e menor valor na lista
+ex079 - valores unicos em uma lista
+ex080 - lista ordenada sem repetiçoes
+ex081 - estraindo dados de uma lista
+ex082 - dividindo valores em varias listas
+ex083 - validando expresoes matematicas
+ex084 - lista composta e analise de dados
+ex085 - lista com pares e impares
+ex086 - matriz em python
+ex087 - matriz em python 2
+ex088 - palpites para a mega sena
+ex089 - boletim com listas compostas  
+ex090 - dicionario em python
+ex091 - jogo de dados em python 
+ex092 - cadastro de trabalhador em python
+ex093 - cadastro de jogador de futebol
+ex094 - unindo dicionario e listas 
+ex095 - aprimorando os dicionarios
+ex096 - funçao que calcula area
+ex097 - um print especial
+ex098 - funçao de contador
+ex099 - funçao que descobre o maior
+ex100 - funçao para sortear e somar
+ex101 - funçao para votaçao
+ex102 - funçao para fatorial
+ex103 - ficha do jogador
+ex104 - validando entrada de dados
+ex105 - analisando e gerando dicionarios
+ex106 - sistema interativo de ajuda
+ex107 - exercitando modulos 
+ex108 - formatando moedas 
+ex109 - formatando moedas
+ex110 - ???????????????????????
+ex111 - transformando modulos em pacotes
+ex112 - entrada de dados monetarios
+ex113 - funçoes aprofundadas   
+ex114 - site esta acessivel
+
+
+
+
 
 
 

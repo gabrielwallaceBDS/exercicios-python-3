@@ -94,6 +94,14 @@
         "index": 339
       }
     ],
+    "exercicios/ex028.py": [
+      {
+        "id": "297da3f0-1329-41cc-8d71-6747f3b091aa",
+        "line": 7,
+        "version": 202,
+        "index": 384
+      }
+    ],
     "exercicios/ex037.py": [
       {
         "id": "d96622ce-dc9a-4301-aa7e-56a1b808276e",
@@ -113,9 +121,41 @@
     "exercicios/ex045.py": [
       {
         "id": "8499e324-ffe1-4ee9-99e3-014184330c8f",
-        "line": 12,
-        "version": 568,
-        "index": 377
+        "line": 24,
+        "version": 905,
+        "index": 681
+      }
+    ],
+    "exercicios/ex064.py": [
+      {
+        "id": "151f2da2-d199-4cd6-b039-02b5ba363f3a",
+        "line": 9,
+        "version": 254,
+        "index": 397
+      }
+    ],
+    "exercicios/ex072.py": [
+      {
+        "id": "035ecf53-290e-4c82-99cb-2c49315727fe",
+        "line": 3,
+        "version": 264,
+        "index": 265
+      }
+    ],
+    "exercicios/ex094.py": [
+      {
+        "id": "afdfff87-91a9-49aa-ad75-e54fbcca5e1f",
+        "line": 14,
+        "version": 983,
+        "index": 476
+      }
+    ],
+    "exercicios/ex096.py": [
+      {
+        "id": "c06fe4ef-b3d5-4151-965e-78f48a8f62dd",
+        "line": 1,
+        "version": 455,
+        "index": 0
       }
     ]
   }
