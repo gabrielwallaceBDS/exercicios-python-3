@@ -9,12 +9,23 @@ python-versions = "*"
 [package.extras]
 dev = ["pytest", "coverage", "coveralls"]
 
+[[package]]
+name = "random2"
+version = "1.0.1"
+description = "Python 3 compatible Pytohn 2 `random` Module."
+category = "main"
+optional = false
+python-versions = "*"
+
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "d995fc80cca2c643db8718de0e4e95d0fd9af664ebe066f37e1d2ef61d29f864"
+content-hash = "c5229c5084285ec0865923ed5cc8fcee86e6b9b188c95146d7500b8f429332ed"
 
 [metadata.files]
 emoji = [
     {file = "emoji-1.6.0.tar.gz", hash = "sha256:379610aeeb10c62876d89472e6ed514971512a51224d4845c117681258eda845"},
+]
+random2 = [
+    {file = "random2-1.0.1.zip", hash = "sha256:34ad30aac341039872401595df9ab2c9dc36d0b7c077db1cea9ade430ed1c007"},
 ]
