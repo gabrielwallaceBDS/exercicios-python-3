@@ -113,6 +113,7 @@ ex112 - entrada de dados monetarios
 ex113 - funçoes aprofundadas   
 ex114 - site esta acessivel
 
+ok
 
 
 
